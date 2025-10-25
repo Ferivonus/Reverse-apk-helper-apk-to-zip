@@ -23,10 +23,10 @@ Consider your extension-renaming headaches officially retired. Happy deconstruct
 
 ## If u even care, the program is looking like that:
 when program is opened:
-![Görsel 1 Açıklaması](/images/if-you-care-app-looks-like-that.png)
+![Cute-cat-girl](/images/if-you-care-app-looks-like-that.png)
 
 when program is ready with link:
-![Görsel 2 Açıklaması](/images/when-program-is-ready.png)
+![Cute-cat-girl-with-cat-hands](/images/when-program-is-ready.png)
 
 when program executed by user:
-![Görsel 3 Açıklaması](images/when-program-executed.png)
+![Cute-cat-girl-without-cat-hands](images/when-program-executed.png)
