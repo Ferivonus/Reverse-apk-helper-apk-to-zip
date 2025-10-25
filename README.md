@@ -20,3 +20,13 @@ This script works flawlessly with the entire messy family of Android package fil
 - .apkm (The slightly complicated cousin)
 
 Consider your extension-renaming headaches officially retired. Happy deconstructing!
+
+## if u even care, the program is looking like that:
+when program is opened:
+![Görsel 1 Açıklaması](/images/if-you-care-app-looks-like-that.png)
+
+when program is ready with link:
+![Görsel 2 Açıklaması](/images/when-program-is-ready.png)
+
+when program executed by user:
+![Görsel 3 Açıklaması](images/when-program-executed.png)
